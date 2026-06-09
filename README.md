@@ -1,4 +1,4 @@
-# My Chess Engine
+# RLChessEngine
 
 A chess engine built from scratch in Python, implementing an AlphaZero-style self-play training loop. A convolutional neural network learns both a move policy and a board evaluation (value) from games it plays against itself, guided by Monte Carlo Tree Search.
 
